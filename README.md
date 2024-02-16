@@ -1,4 +1,4 @@
-liñea
+bu
 # Goonies
 TODO: Pick up the boys
 ## Installation
