@@ -1,1 +1,1 @@
-Project for mention "The Goonies", thw game
+Project for mention "The Goonies", the game
