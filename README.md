@@ -1,12 +1,10 @@
-<snippet>
-  <content><![CDATA[
+
 # Goonies
-TODO: Recoge al resto de hermanos
+TODO: Pick up the boys
 ## Installation
 TODO: Click the link to download
 ## Usage
-TODO: Salta
-    Attack
+TODO: Jump, attack and run.
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -19,6 +17,3 @@ TODO: Write history
 TODO: Write credits
 ## License
 TODO: Write license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
